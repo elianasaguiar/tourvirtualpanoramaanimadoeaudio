@@ -1,0 +1,41 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa 2 - Jardins do Lago Quadra 1
+
+## Media
+
+### Title
+panorama_2BA57F3C_244B_5CF3_41A6_C0FD64BE514E.label = panorama1_guide
+panorama_E90B7006_E216_1C63_41D5_AEC5DC19512B.label = Foto1
+panorama_EB815B03_E216_0C62_41E9_B791B75F7C28.label = Foto2
+panorama_EB828F32_E216_04A2_41CA_31745BABAAF2.label = Foto7
+panorama_EB82B303_E216_3C62_41E6_3B8D949DE6FE.label = Foto12
+panorama_EB82BD72_E216_04A3_41E6_9C8302EEB6B6.label = Foto13
+panorama_EB82CE33_E216_04A2_41C2_0269B84DDC42.label = Foto10
+panorama_EB82D89E_E216_0C62_41B9_32C2B72E9ABF.label = Foto14
+panorama_EB82E854_E216_0CE7_41DF_E0E26BFE0B0E.label = Foto11
+panorama_EB82F3C3_E216_03E2_41C9_6095B652E020.label = Foto9
+panorama_EB834D4E_E216_04E3_41DC_A98CD84C40B9.label = Foto16
+panorama_EB83520F_E216_3C62_41E2_8CA67B8E28E5.label = Foto18
+panorama_EB83812F_E216_7CA2_41D8_2CF6BE075463.label = Foto21
+panorama_EB83880C_E216_0C66_41DF_F058BB43CA01.label = Foto17
+panorama_EB839C4B_E216_04E2_41CB_0A5C78D10B02.label = Foto22
+panorama_EB839D59_E216_04EE_41D8_D7A6D65FE0EA.label = Foto19
+panorama_EB83A841_E216_0CDE_41EC_32EE1D9F36B3.label = Foto23
+panorama_EB83B2C0_E216_3DDF_41E3_A6DDEF7D3444.label = Foto24
+panorama_EB83B35C_E217_FCE6_41EA_27EDDBC0B508.label = Foto15
+panorama_EB83B73C_E216_04A6_41D7_51EFA5312B65.label = Foto20
+panorama_EB852011_E216_1C7E_41DC_41EDDCC25C50.label = Foto4
+panorama_EB854934_E216_0CA6_41E9_C47F661EA176.label = Foto8
+panorama_EB8554A3_E216_05A2_41D7_5ACC130D7DB9.label = Foto6
+panorama_EB8555EF_E216_07A1_41DA_2B0B87EC7D5B.label = Foto3
+panorama_EB8569F4_E216_0FA6_41C5_8949D6F22E47.label = Foto5
+video_35303ED0_2459_DDB6_41AB_578C37C3D636.label = vídeo_04
+video_C77CB87A_E689_C45B_41CF_8C43F8EE9246.label = Minuto Relaxar - Tartaruga Marinha e Música Relaxante
+video_F9223CC8_E69A_5CA7_41E3_1BC555A6EF02.label = Resolução mais baixa - Minuto Relaxar - Tartaruga Marinha e Música Relaxante
+video_F9579C2A_E697_C3FB_41E0_0193052B8B6A.label = Resolução mais baixa - Minuto Relaxar - Tartaruga Marinha e Música Relaxante
